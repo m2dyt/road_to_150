@@ -16,6 +16,7 @@ __6 сентября__
 
 __10 сентября__  
 [169. Majority Element](https://leetcode.com/problems/majority-element/solutions/7176337/m2dyt-by-m2dyt-rq1t)  
+[189. Rotate Array](https://leetcode.com/problems/rotate-array/solutions/7176491/m2dyt-by-m2dyt-db08)
 
 ---
 
