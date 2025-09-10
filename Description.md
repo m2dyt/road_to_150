@@ -13,3 +13,9 @@ __6 сентября__
  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/7170157/m2dyt-by-m2dyt-pl7b)  
  
  ---
+
+__10 сентября__  
+[169. Majority Element](https://leetcode.com/problems/majority-element/solutions/7176337/m2dyt-by-m2dyt-rq1t)  
+
+---
+
