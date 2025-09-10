@@ -17,6 +17,7 @@ __6 сентября__
 __10 сентября__  
 [169. Majority Element](https://leetcode.com/problems/majority-element/solutions/7176337/m2dyt-by-m2dyt-rq1t)  
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/solutions/7176491/m2dyt-by-m2dyt-db08)
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7176637/m2dyt-by-m2dyt-qyo3)
 
 ---
 
