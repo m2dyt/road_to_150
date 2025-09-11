@@ -22,7 +22,7 @@ __10 сентября__
 
 ---
 
-__11 сентября__ 
+__11 сентября__  
 [55. Jump Game](https://leetcode.com/problems/jump-game/solutions/7178075/m2dyt-by-m2dyt-mmi3)  
 
 
