@@ -25,5 +25,10 @@ __10 сентября__
 __11 сентября__  
 [55. Jump Game](https://leetcode.com/problems/jump-game/solutions/7178075/m2dyt-by-m2dyt-mmi3)  
 
+---
 
+__12 сентября__
+[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1768223445)  
+
+---
 
