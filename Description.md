@@ -28,7 +28,8 @@ __11 сентября__
 ---
 
 __12 сентября__  
-[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1768223445)  
+[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/solutions/7183299/m2dyt-by-m2dyt-5le4)  
+[274. H-Index](https://leetcode.com/problems/h-index/solutions/7183296/m2dyt-by-m2dyt-qt8j)
 
 ---
 
