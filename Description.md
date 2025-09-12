@@ -27,7 +27,7 @@ __11 сентября__
 
 ---
 
-__12 сентября__
+__12 сентября__  
 [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1768223445)  
 
 ---
