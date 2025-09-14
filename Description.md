@@ -38,5 +38,6 @@ __14 сентября__
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/7188983/m2dyt-by-m2dyt-fiqr)  
 [134. Gas Station](https://leetcode.com/problems/gas-station/solutions/7189074/m2dyt-by-m2dyt-98kb)  
 [135. Candy](https://leetcode.com/problems/candy/solutions/7189399/m2dyt-by-m2dyt-ww88)  
+[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/solutions/7190183/m2dyt-by-m2dyt-7t24)  
 
 ---
