@@ -34,5 +34,7 @@ __12 сентября__
 
 ---
 
-__13 сентября__  
+__14 сентября__    
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/7188983/m2dyt-by-m2dyt-fiqr)  
 
+---
