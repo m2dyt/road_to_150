@@ -44,4 +44,4 @@ __14 сентября__
 
 __15 сентября__  
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/solutions/7192442/m2dyt-by-m2dyt-269x)  
-
+[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/solutions/7192697/m2dyt-by-m2dyt-qmgr)  
