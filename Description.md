@@ -45,3 +45,9 @@ __14 сентября__
 __15 сентября__  
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/solutions/7192442/m2dyt-by-m2dyt-269x)  
 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/solutions/7192697/m2dyt-by-m2dyt-qmgr)  
+
+---  
+
+__16 сентября__  
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/7196327/m2dyt-by-m2dyt-vzjq)  
+
