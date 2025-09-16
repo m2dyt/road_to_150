@@ -50,4 +50,4 @@ __15 сентября__
 
 __16 сентября__  
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/7196327/m2dyt-by-m2dyt-vzjq)  
-
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/7196430/m2dyt-by-m2dyt-efa7)
