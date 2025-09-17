@@ -50,4 +50,14 @@ __15 сентября__
 
 __16 сентября__  
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/7196327/m2dyt-by-m2dyt-vzjq)  
-[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/7196430/m2dyt-by-m2dyt-efa7)
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/7196430/m2dyt-by-m2dyt-efa7)  
+
+---
+
+__17 сентября__  
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7199254/m2dyt-by-m2dyt-hnfv)  
+[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/solutions/7199300/m2dyt-by-m2dyt-x7pz)  
+[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7199403/m2dyt-by-m2dyt-l3hf)  
+
+---
+
