@@ -62,3 +62,5 @@ __17 сентября__
 
 ---
 
+__18 сентября__  
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/7203757/m2dyt-by-m2dyt-aurw)  
