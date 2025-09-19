@@ -67,3 +67,6 @@ __18 сентября__
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/7203764/m2dyt-by-m2dyt-70el)  
 
 ---
+
+__19 сентября__  
+[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/7206294/m2dyt-by-m2dyt-3rpm)  
