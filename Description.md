@@ -70,3 +70,8 @@ __18 сентября__
 
 __19 сентября__  
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/7206294/m2dyt-by-m2dyt-3rpm)  
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/solutions/7206473/m2dyt-by-m2dyt-md43)  
+
+---
+
+
