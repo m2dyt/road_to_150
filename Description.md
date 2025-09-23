@@ -81,4 +81,5 @@ __21 сентября__
 
 __23 сентября__  
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7217564/m2dyt-by-m2dyt-zor4)  
-[]()  
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7217628/m2dyt-by-m2dyt-dkv2)  
+
