@@ -77,3 +77,8 @@ __19 сентября__
 __21 сентября__  
 [15. 3Sum](https://leetcode.com/problems/3sum/solutions/7211976/m2dyt-by-m2dyt-e83b)  
 
+---
+
+__23 сентября__  
+[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7217564/m2dyt-by-m2dyt-zor4)  
+[]()  
