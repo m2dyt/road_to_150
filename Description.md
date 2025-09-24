@@ -88,3 +88,10 @@ __23 сентября__
 
 __24 сентября__  
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/solutions/7221235/m2dyt-by-m2dyt-9st2)
+
+---
+
+__25 сентября__  
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/solutions/7221303/m2dyt-by-m2dyt-52l5)  
+
+---
