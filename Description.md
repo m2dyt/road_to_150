@@ -84,3 +84,7 @@ __23 сентября__
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7217628/m2dyt-by-m2dyt-dkv2)  
 [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/solutions/7217783/m2dyt-by-m2dyt-4fbf)  
 
+---
+
+__23 сентября__  
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/solutions/7221235/m2dyt-by-m2dyt-9st2)
