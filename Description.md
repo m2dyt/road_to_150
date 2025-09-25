@@ -94,4 +94,5 @@ __24 сентября__
 __25 сентября__  
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/solutions/7221303/m2dyt-by-m2dyt-52l5)  
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/7224028/m2dyt-by-m2dyt-400m)  
+
 ---
