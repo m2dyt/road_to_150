@@ -96,3 +96,9 @@ __25 сентября__
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/7224028/m2dyt-by-m2dyt-400m)  
 
 ---
+
+__26 сентября__  
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/solutions/7225391/m2dyt-by-m2dyt-44mt)  
+
+
+---
