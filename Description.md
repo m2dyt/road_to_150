@@ -100,5 +100,6 @@ __25 сентября__
 __26 сентября__  
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/solutions/7225391/m2dyt-by-m2dyt-44mt)  
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/solutions/7225532/m2dyt-by-m2dyt-qcud)  
+[289. Game of Life](https://leetcode.com/problems/game-of-life/solutions/7225681/m2dyt-by-m2dyt-tk2m)  
 
 ---
