@@ -106,5 +106,6 @@ __26 сентября__
 __28 сентября__  
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/solutions/7229418/m2dyt-by-m2dyt-hki0)  
 [383. Ransom Note](https://leetcode.com/problems/ransom-note/solutions/7229423/m2dyt-by-m2dyt-xce0)  
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/solutions/7229460/m2dyt-by-m2dyt-l5c6)  
 
 ---
