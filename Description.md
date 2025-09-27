@@ -103,3 +103,8 @@ __26 сентября__
 [289. Game of Life](https://leetcode.com/problems/game-of-life/solutions/7225681/m2dyt-by-m2dyt-tk2m)  
 
 ---
+__28 сентября__  
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/solutions/7229418/m2dyt-by-m2dyt-hki0)  
+[383. Ransom Note](https://leetcode.com/problems/ransom-note/solutions/7229423/m2dyt-by-m2dyt-xce0)  
+
+---
