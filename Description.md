@@ -110,3 +110,8 @@ __28 сентября__
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/solutions/7229460/m2dyt-by-m2dyt-l5c6)  
 
 ---
+
+__29 сентября__  
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/7234371/m2dyt-by-m2dyt-23nq)  
+
+---
