@@ -115,3 +115,8 @@ __29 сентября__
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/7234371/m2dyt-by-m2dyt-23nq)  
 
 ---
+
+__30 сентября__  
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/7236376/m2dyt-by-m2dyt-a5ld)  
+
+---
