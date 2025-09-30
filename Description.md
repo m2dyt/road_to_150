@@ -118,5 +118,6 @@ __29 сентября__
 
 __30 сентября__  
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/7236376/m2dyt-by-m2dyt-a5ld)  
+[1. Two Sum](https://leetcode.com/problems/two-sum/solutions/7237498/m2dyt-by-m2dyt-gd6q)  
 
 ---
