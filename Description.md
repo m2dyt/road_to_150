@@ -121,3 +121,8 @@ __30 сентября__
 [1. Two Sum](https://leetcode.com/problems/two-sum/solutions/7237498/m2dyt-by-m2dyt-gd6q)  
 
 ---
+
+__1 октярбря__  
+[202. Happy Number](https://leetcode.com/problems/happy-number/solutions/7240327/m2dyt-by-m2dyt-gms0)  
+
+---
