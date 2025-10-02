@@ -126,3 +126,8 @@ __1 октярбря__
 [202. Happy Number](https://leetcode.com/problems/happy-number/solutions/7240327/m2dyt-by-m2dyt-gms0)  
 
 ---
+
+__2 октября__  
+[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/solutions/7241777/m2dyt-by-m2dyt-5uvh)  
+
+---
