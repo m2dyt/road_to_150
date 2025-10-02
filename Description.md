@@ -129,5 +129,6 @@ __1 октярбря__
 
 __2 октября__  
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/solutions/7241777/m2dyt-by-m2dyt-5uvh)  
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solutions/7243419/m2dyt-by-m2dyt-3qoj)  
 
 ---
