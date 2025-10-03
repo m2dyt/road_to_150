@@ -132,3 +132,8 @@ __2 октября__
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/solutions/7243423/m2dyt-by-m2dyt-021h)  
 
 ---
+
+__3 октября__  
+[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/solutions/7246127/m2dyt-by-m2dyt-k000)  
+
+---
