@@ -135,5 +135,6 @@ __2 октября__
 
 __3 октября__  
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/solutions/7246127/m2dyt-by-m2dyt-k000)  
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/solutions/7246241/m2dyt-by-m2dyt-1v71)  
 
 ---
