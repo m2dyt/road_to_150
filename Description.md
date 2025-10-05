@@ -143,5 +143,8 @@ __3 октября__
  [57. Insert Interval](https://leetcode.com/problems/insert-interval/solutions/7249155/m2dyt-by-m2dyt-su5s)  
 
  ---
+ __5 октября__  
+ [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/7251504/m2dyt-by-m2dyt-k4vh)  
 
+ ---
  
