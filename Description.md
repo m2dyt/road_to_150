@@ -148,6 +148,6 @@ __3 октября__
 
  ---
  __6 октября__  
- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/7254446/m2dyt-by-m2dyt-izl2)  
-
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/7254446/m2dyt-by-m2dyt-izl2)  
+[71. Simplify Path](https://leetcode.com/problems/simplify-path/solutions/7254579/m2dyt-by-m2dyt-52zs)  
  ---
