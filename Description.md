@@ -147,4 +147,7 @@ __3 октября__
  [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/7251504/m2dyt-by-m2dyt-k4vh)  
 
  ---
- 
+ __6 октября__  
+ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/7254446/m2dyt-by-m2dyt-izl2)  
+
+ ---
