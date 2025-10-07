@@ -152,3 +152,7 @@ __3 октября__
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/solutions/7254579/m2dyt-by-m2dyt-52zs)   
 
  ---
+__7 октября__  
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7257321/m2dyt-by-m2dyt-xxr7)  
+
+---
