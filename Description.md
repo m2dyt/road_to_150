@@ -154,5 +154,6 @@ __3 октября__
  ---
 __7 октября__  
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7257321/m2dyt-by-m2dyt-xxr7)  
+[100. Same Tree](https://leetcode.com/problems/same-tree/solutions/7257357/m2dyt-by-m2dyt-y110)  
 
 ---
