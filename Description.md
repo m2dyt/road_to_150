@@ -157,3 +157,7 @@ __7 октября__
 [100. Same Tree](https://leetcode.com/problems/same-tree/solutions/7257357/m2dyt-by-m2dyt-y110)  
 
 ---
+__8 октябяр__  
+[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solutions/7257380/m2dyt-by-m2dyt-zpbs)  
+
+---
