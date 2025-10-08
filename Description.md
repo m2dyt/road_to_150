@@ -159,6 +159,7 @@ __7 октября__
 ---
 __8 октябяр__  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solutions/7257380/m2dyt-by-m2dyt-zpbs)  
-[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/solutions/7258728/m2dyt-by-m2dyt-7ol9)  
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/solutions/7258728/m2dyt-by-m2dyt-7ol9)   
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/7258965/m2dyt-by-m2dyt-ondq)  
 
 ---
