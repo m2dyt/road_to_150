@@ -163,3 +163,7 @@ __8 октябяр__
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/7258965/m2dyt-by-m2dyt-ondq)  
 
 ---
+__9 октябоя__  
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/7262724/m2dyt-by-m2dyt-mn5t)  
+
+---
