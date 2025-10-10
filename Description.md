@@ -167,3 +167,7 @@ __9 октябоя__
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/7262724/m2dyt-by-m2dyt-mn5t)  
 
 ---
+__10 октября__  
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/solutions/7264787/m2dyt-by-m2dyt-dpeb)  
+
+---
