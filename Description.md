@@ -171,3 +171,7 @@ __10 октября__
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/solutions/7264787/m2dyt-by-m2dyt-dpeb)  
 
 ---
+__11 октября__  
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/7267841/m2dyt-by-m2dyt-8sjm)  
+
+---
