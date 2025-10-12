@@ -178,6 +178,6 @@ __11 октября__
 
 __12 октября__  
 [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/solutions/7270257/m2dyt-by-m2dyt-jgqv)  
-[]()
+[763. Partition Labels](https://leetcode.com/problems/partition-labels/solutions/7270263/m2dyt-by-m2dyt-0voq)  
 
 ---
