@@ -181,3 +181,7 @@ __12 октября__
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/solutions/7270263/m2dyt-by-m2dyt-0voq)  
 
 ---
+__13 октября__  
+[112. Path Sum](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/solutions/7264787/m2dyt-by-m2dyt-dpeb)  
+
+---
