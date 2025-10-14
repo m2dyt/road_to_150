@@ -190,5 +190,6 @@ __14 октября__
 [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/solutions/7274210/m2dyt-by-m2dyt-boh6)  
 [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/solutions/7275425/m2dyt-by-m2dyt-j909)  
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/submissions/1801650448)  
+[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/solutions/7275539/m2dyt-by-m2dyt-6l0n)
 
 ---
