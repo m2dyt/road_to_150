@@ -186,3 +186,7 @@ __13 октября__
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/7271570/m2dyt-by-m2dyt-nb71)  
 
 ---
+__14 октября__  
+[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/solutions/7274210/m2dyt-by-m2dyt-boh6)  
+
+---
