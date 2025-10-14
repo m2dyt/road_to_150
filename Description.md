@@ -188,5 +188,6 @@ __13 октября__
 ---
 __14 октября__  
 [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/solutions/7274210/m2dyt-by-m2dyt-boh6)  
+[1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/solutions/7275425/m2dyt-by-m2dyt-j909)  
 
 ---
