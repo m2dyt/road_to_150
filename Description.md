@@ -193,3 +193,8 @@ __14 октября__
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/solutions/7275539/m2dyt-by-m2dyt-6l0n)
 
 ---
+__15 октябяр__  
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/7277012/m2dyt-by-m2dyt-9kza)  
+
+---
+
