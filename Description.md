@@ -196,6 +196,6 @@ __14 октября__
 __15 октябяр__  
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/7277012/m2dyt-by-m2dyt-9kza)  
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/solutions/7277206/m2dyt-by-m2dyt-qdc9)   
-[]()
+[547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/solutions/7277208/m2dyt-by-m2dyt-b0p0)  
 ---
 
