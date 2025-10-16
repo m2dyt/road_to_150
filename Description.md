@@ -199,4 +199,8 @@ __15 октябяр__
 [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/solutions/7277208/m2dyt-by-m2dyt-b0p0)  
 
 ---
+__16 октября__  
+[542. 01 Matrix](https://leetcode.com/problems/01-matrix/solutions/7280702/m2dyt-by-m2dyt-30o7)  
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/solutions/7280706/m2dyt-by-m2dyt-2h55)  
 
+---
