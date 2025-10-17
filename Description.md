@@ -204,3 +204,7 @@ __16 октября__
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/solutions/7280706/m2dyt-by-m2dyt-2h55)  
 
 ---
+__17 октября__  
+[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/solutions/7281994/m2dyt-by-m2dyt-6mi9)  
+
+---
