@@ -206,7 +206,11 @@ __16 октября__
 ---
 __17 октября__  
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/solutions/7281994/m2dyt-by-m2dyt-6mi9)  
-gg
+
+---
+__20 октябяр__  
+[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7289248/m2dyt-by-m2dyt-3lt1)  
+
 ---
 
 
