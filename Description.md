@@ -212,7 +212,11 @@ __20 октябяр__
 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7289248/m2dyt-by-m2dyt-3lt1)  
 
 ---
+__21 октябяр__  
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/solutions/7290888/m2dyt-by-m2dyt-ieia)  
+[662. Maximum Width of Binary TreeSolved](https://leetcode.com/problems/maximum-width-of-binary-tree/solutions/7290890/m2dyt-by-m2dyt-0sqp)  
 
+---
 
 
 
