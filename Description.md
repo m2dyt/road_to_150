@@ -224,7 +224,7 @@ __23 октября__
 ---
 __27 октября__  
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/solutions/7305497/m2dyt-by-m2dyt-2pmn)  
-[]()  
+[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/solutions/7305518/m2dyt-by-m2dyt-93yc)  
 
 ---
 
