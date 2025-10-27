@@ -222,8 +222,9 @@ __23 октября__
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solutions/7295433/m2dyt-by-m2dyt-ca85)  
 
 ---
-
-ggg
+__27 октября__  
+[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/solutions/7305497/m2dyt-by-m2dyt-2pmn)  
+[]()  
 
 ---
 
