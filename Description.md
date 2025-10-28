@@ -227,4 +227,9 @@ __27 октября__
 [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/solutions/7305518/m2dyt-by-m2dyt-93yc)  
 
 ---
+__28 октября__  
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/solutions/7308892/m2dyt-by-m2dyt-m9db)  
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/solutions/7308913/m2dyt-by-m2dyt-a451)  
+
+---
 
