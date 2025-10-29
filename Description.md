@@ -233,7 +233,7 @@ __28 октября__
 
 ---
 __29 октября__  
-[292. Nim Gamehttps://leetcode.com/problems/nim-game/solutions/7310724/m2dyt-by-m2dyt-oohm](https://leetcode.com/problems/nim-game/solutions/7310724/m2dyt-by-m2dyt-oohm)  
-[]()
+[292. Nim Game](https://leetcode.com/problems/nim-game/solutions/7310724/m2dyt-by-m2dyt-oohm)  
+[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/solutions/7310734/m2dyt-by-m2dyt-jmrf)  
 
 ---
