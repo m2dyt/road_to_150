@@ -232,4 +232,8 @@ __28 октября__
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/solutions/7308913/m2dyt-by-m2dyt-a451)  
 
 ---
+__29 октября__  
+[292. Nim Gamehttps://leetcode.com/problems/nim-game/solutions/7310724/m2dyt-by-m2dyt-oohm](https://leetcode.com/problems/nim-game/solutions/7310724/m2dyt-by-m2dyt-oohm)  
+[]()
 
+---
