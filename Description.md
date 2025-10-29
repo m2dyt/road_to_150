@@ -237,3 +237,8 @@ __29 октября__
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/solutions/7310734/m2dyt-by-m2dyt-jmrf)  
 
 ---
+__30 октября__  
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7311589/m2dyt-by-m2dyt-oz6m)  
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/7311593/m2dyt-by-m2dyt-6lhi)   
+
+---
