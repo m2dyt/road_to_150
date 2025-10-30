@@ -240,5 +240,5 @@ __29 октября__
 __30 октября__  
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7311589/m2dyt-by-m2dyt-oz6m)  
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/7311593/m2dyt-by-m2dyt-6lhi)   
-
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/7314469/m2dyt-by-m2dyt-406h)  
 ---
