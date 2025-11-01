@@ -243,3 +243,7 @@ __30 октября__
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/7314469/m2dyt-by-m2dyt-406h)   
 
 ---
+__1 ноября__  
+[]()  
+
+---
