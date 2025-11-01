@@ -244,6 +244,7 @@ __30 октября__
 
 ---
 __1 ноября__  
-[]()  
+[994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/solutions/7319411/m2dyt-by-m2dyt-rkvz)  
+[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/solutions/7319414/m2dyt-by-m2dyt-awy4)  
 
 ---
