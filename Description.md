@@ -248,3 +248,8 @@ __1 ноября__
 [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/solutions/7319414/m2dyt-by-m2dyt-awy4)  
 
 ---
+__2 ноября__  
+[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/solutions/7321791/m2dyt-by-m2dyt-0dxn)  
+[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/solutions/7321796/m2dyt-by-m2dyt-fkka)   
+
+---
