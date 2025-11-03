@@ -253,3 +253,8 @@ __2 ноября__
 [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/solutions/7321796/m2dyt-by-m2dyt-fkka)   
 
 ---
+__3 ноября__  
+[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/solutions/7323988/m2dyt-by-m2dyt-yi1a)  
+[388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/solutions/7323993/m2dyt-by-m2dyt-822s)  
+
+---
