@@ -258,3 +258,7 @@ __3 ноября__
 [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/solutions/7323993/m2dyt-by-m2dyt-822s)  
 
 ---
+__4 ноября__  
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/7327098/m2dyt-by-m2dyt-snb6)  
+
+---
