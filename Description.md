@@ -260,6 +260,10 @@ __3 ноября__
 ---
 __4 ноября__  
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/7327098/m2dyt-by-m2dyt-snb6)  
-ррр
----
 
+---
+__6 ноября__  
+[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/solutions/7330674/m2dyt-by-m2dyt-f4zj)  
+[1025. Divisor Game](https://leetcode.com/problems/divisor-game/solutions/7330672/m2dyt-by-m2dyt-azuz)  
+
+---
