@@ -267,3 +267,8 @@ __6 ноября__
 [1025. Divisor Game](https://leetcode.com/problems/divisor-game/solutions/7330672/m2dyt-by-m2dyt-azuz)  
 
 ---
+__7 ноября__  
+[]()  
+[1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/solutions/7334474/m2dyt-by-m2dyt-9ejo)  
+
+---
