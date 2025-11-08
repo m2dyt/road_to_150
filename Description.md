@@ -268,7 +268,8 @@ __6 ноября__
 
 ---
 __7 ноября__  
-[]()  
+[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/solutions/7334481/m2dyt-by-m2dyt-1d7x)  
 [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/solutions/7334474/m2dyt-by-m2dyt-9ejo)  
 
 ---
+
