@@ -273,7 +273,8 @@ __7 ноября__
 
 ---
 __8 ноября__  
-[]()  
-[]()  
+[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/7334590/m2dyt-by-m2dyt-yqbq)  
+[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/solutions/7334593/m2dyt-by-m2dyt-8pmc)  
 
----
+--- 
+
