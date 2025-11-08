@@ -272,4 +272,8 @@ __7 ноября__
 [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/solutions/7334474/m2dyt-by-m2dyt-9ejo)  
 
 ---
+__8 ноября__  
+[]()  
+[]()  
 
+---
