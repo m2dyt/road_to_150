@@ -277,4 +277,8 @@ __8 ноября__
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/solutions/7334593/m2dyt-by-m2dyt-8pmc)  
 
 --- 
+__9 ноября__  
+[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/solutions/7337957/m2dyt-by-m2dyt-pgdg)  
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/solutions/7337963/m2dyt-by-m2dyt-55n0)   
 
+---
