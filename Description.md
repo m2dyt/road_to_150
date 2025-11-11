@@ -288,6 +288,6 @@ __10 ноября__
 ---
 __11 ноября__  
 [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/solutions/7342533/m2dyt-by-m2dyt-81e1)  
-[]()  
+[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/solutions/7342536/m2dyt-by-m2dyt-t7do)  
 
 ---
