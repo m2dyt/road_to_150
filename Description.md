@@ -286,3 +286,8 @@ __10 ноября__
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/7340435/m2dyt-by-m2dyt-188h)  
 
 ---
+__11 ноября__  
+[717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/solutions/7342533/m2dyt-by-m2dyt-81e1)  
+[]()  
+
+---
