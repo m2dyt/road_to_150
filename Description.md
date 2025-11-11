@@ -282,4 +282,7 @@ __9 ноября__
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/solutions/7337963/m2dyt-by-m2dyt-55n0)   
 
 ---
-___
+__10 ноября__  
+[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/7340435/m2dyt-by-m2dyt-188h)  
+
+---
