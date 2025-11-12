@@ -292,8 +292,8 @@ __11 ноября__
 
 ---
 __12 ноября__  
-[]()  
-[]()  
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/7343942/m2dyt-by-m2dyt-r9bl)  
+[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/solutions/7343950/m2dyt-by-m2dyt-hayt)  
 
 ---
 
