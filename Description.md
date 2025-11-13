@@ -297,6 +297,7 @@ __12 ноября__
 
 ---
 __13 ноября__  
-[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/solutions/7346980/m2dyt-by-m2dyt-42qh)  
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/solutions/7346980/m2dyt-by-m2dyt-42qh)   
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/7347073/m2dyt-by-m2dyt-qu1m)   
 
 ---
