@@ -301,3 +301,7 @@ __13 ноября__
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/7347073/m2dyt-by-m2dyt-qu1m)   
 
 ---
+__14 ноября__  
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solutions/7348185/m2dyt-by-m2dyt-ono8)  
+
+---
