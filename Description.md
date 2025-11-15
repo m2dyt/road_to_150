@@ -305,6 +305,9 @@ __14 ноября__
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solutions/7348185/m2dyt-by-m2dyt-ono8)  
 
 ---
+__15 ноября__  
+[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/solutions/7350937/m2dyt-by-m2dyt-s6r2)   
+[]()  
 
 ---
 
