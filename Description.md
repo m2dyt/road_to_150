@@ -307,7 +307,8 @@ __14 ноября__
 ---
 __15 ноября__  
 [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/solutions/7350937/m2dyt-by-m2dyt-s6r2)   
-[]()  
+[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/7350939/m2dyt-by-m2dyt-8z6k)  
 
 ---
+
 
