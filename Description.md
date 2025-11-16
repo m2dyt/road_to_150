@@ -310,7 +310,7 @@ __15 ноября__
 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/7350939/m2dyt-by-m2dyt-8z6k)  
 
 ---  
-__16 ноября__
+__16 ноября__   
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/solutions/7352585/m2dyt-by-m2dyt-8qd7)  
 [796. Rotate String](https://leetcode.com/problems/rotate-string/solutions/7352596/m2dyt-by-m2dyt-mhp1)  
 
