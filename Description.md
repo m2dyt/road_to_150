@@ -315,4 +315,7 @@ __16 ноября__
 [796. Rotate String](https://leetcode.com/problems/rotate-string/solutions/7352596/m2dyt-by-m2dyt-mhp1)  
 
 ---
+__17 ноября__    
+[344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/7355030/m2dyt-by-m2dyt-4yr8)  
 
+---
