@@ -316,6 +316,8 @@ __16 ноября__
 
 ---
 __17 ноября__    
-[344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/7355030/m2dyt-by-m2dyt-4yr8)  
+[344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/7355030/m2dyt-by-m2dyt-4yr8)   
+[1051. Height Checker](https://leetcode.com/problems/height-checker/solutions/7355287/m2dyt-by-m2dyt-40d6)   
+[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/solutions/7355296/m2dyt-by-m2dyt-o8uj)   
 
 ---
