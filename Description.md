@@ -321,3 +321,7 @@ __17 ноября__
 [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/solutions/7355296/m2dyt-by-m2dyt-o8uj)   
 
 ---
+__18 ноября__  
+[]()   
+
+---
