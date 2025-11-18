@@ -322,6 +322,6 @@ __17 ноября__
 
 ---
 __18 ноября__  
-[]()   
+[155. Min Stack](https://leetcode.com/problems/min-stack/solutions/7358550/m2dyt-by-m2dyt-gwji)     
 
 ---
