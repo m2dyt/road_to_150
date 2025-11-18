@@ -323,5 +323,6 @@ __17 ноября__
 ---
 __18 ноября__  
 [155. Min Stack](https://leetcode.com/problems/min-stack/solutions/7358550/m2dyt-by-m2dyt-gwji)     
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/solutions/7358583/m2dyt-by-m2dyt-i2cz)   
 
 ---
