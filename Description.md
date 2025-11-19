@@ -326,3 +326,7 @@ __18 ноября__
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/solutions/7358583/m2dyt-by-m2dyt-i2cz)   
 
 ---
+__19 ноябяр__  
+[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1834563525)   
+
+---
