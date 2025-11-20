@@ -330,3 +330,8 @@ __19 ноябяр__
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1834563525)   
 
 ---
+__20 ноября__   
+[27. Remove Element](https://leetcode.com/problems/remove-element/solutions/7363088/m2dyt-by-m2dyt-ygxl)    
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/solutions/7363094/m2dyt-by-m2dyt-ceve)   
+
+---
