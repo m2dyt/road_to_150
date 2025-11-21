@@ -337,6 +337,6 @@ __20 ноября__
 ---
 __21 ноября__  
 [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solutions/7365503/m2dyt-by-m2dyt-w87h)  
-[]()   
+[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solutions/7365505/m2dyt-by-m2dyt-dkkx)   
 
 ---
