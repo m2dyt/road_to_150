@@ -335,3 +335,8 @@ __20 ноября__
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/solutions/7363094/m2dyt-by-m2dyt-ceve)   
 
 ---
+__21 ноября__  
+[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solutions/7365503/m2dyt-by-m2dyt-w87h)  
+[]()   
+
+---
