@@ -340,3 +340,8 @@ __21 ноября__
 [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solutions/7365505/m2dyt-by-m2dyt-dkkx)   
 
 ---
+__22 ноября__  
+[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/solutions/7367327/m2dyt-by-m2dyt-vkfa)   
+[1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/solutions/7367330/m2dyt-by-m2dyt-472a)    
+
+---
