@@ -346,3 +346,8 @@ __22 ноября__
 [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/solutions/7367330/m2dyt-by-m2dyt-472a)    
 
 ---
+__24 ноября__   
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/solutions/7372267/m2dyt-by-m2dyt-obuf)   
+[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/solutions/7372269/m2dyt-by-m2dyt-zlrv)   
+
+---
