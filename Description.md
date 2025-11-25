@@ -351,3 +351,8 @@ __24 ноября__
 [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/solutions/7372269/m2dyt-by-m2dyt-zlrv)   
 
 ---
+__25 ноября__   
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/solutions/7373823/m2dyt-by-m2dyt-1yip)   
+[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/solutions/7373826/m2dyt-by-m2dyt-kh2a)   
+
+---
