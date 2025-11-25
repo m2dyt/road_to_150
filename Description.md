@@ -354,5 +354,7 @@ __24 ноября__
 __25 ноября__   
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/solutions/7373823/m2dyt-by-m2dyt-1yip)   
 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/solutions/7373826/m2dyt-by-m2dyt-kh2a)   
+[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/solutions/7374328/m2dyt-by-m2dyt-z6zc)   
+
 
 ---
