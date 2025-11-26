@@ -360,6 +360,6 @@ __25 ноября__
 ---
 __26 ноября__   
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/solutions/7375692/m2dyt-by-m2dyt-wk8x)   
-[]()   
+[133. Clone Graph](https://leetcode.com/problems/clone-graph/solutions/7376417/m2dyt-by-m2dyt-hq9d)   
 
 ---
