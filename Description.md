@@ -363,3 +363,8 @@ __26 ноября__
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/solutions/7376417/m2dyt-by-m2dyt-hq9d)   
 
 ---
+__27 ноября__   
+[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/solutions/7376527/m2dyt-by-m2dyt-0kwd)   
+[]()   
+
+---
