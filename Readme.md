@@ -365,6 +365,11 @@ __26 ноября__
 ---
 __27 ноября__   
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/solutions/7376527/m2dyt-by-m2dyt-0kwd)   
-[]()   
 
 ---
+__28 ноября__  
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/solutions/7377558/m2dyt-by-m2dyt-ww2z)   
+
+---
+
+
