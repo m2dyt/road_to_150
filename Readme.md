@@ -370,6 +370,7 @@ __27 ноября__
 __28 ноября__  
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/solutions/7377558/m2dyt-by-m2dyt-ww2z)   
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/solutions/7377757/m2dyt-by-m2dyt-tais)   
+[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/solutions/7377842/m2dyt-by-m2dyt-1aun)   
 
 ---
 
