@@ -372,5 +372,8 @@ __28 ноября__
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/solutions/7377842/m2dyt-by-m2dyt-1aun)   
 
 ---
+__29 ноября__   
+[19. Удалить N-й узел из конца списка](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7380001/m2dyt-by-m2dyt-aqw0)   
 
+---
 
