@@ -1,7 +1,6 @@
 __5 сентября__  
 [Задача 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/solutions/7159649/m2dyt-by-m2dyt-zd9o)  
 
-
 ---
 
 __6 сентября__  
@@ -375,6 +374,10 @@ __28 ноября__
 ---
 __29 ноября__   
 [19. Удалить N-й узел из конца списка](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7380001/m2dyt-by-m2dyt-aqw0)   
+
+---
+__30 ноября__  
+[82. Удалить дубликаты из отсортированного списка II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/7382231/m2dyt-by-m2dyt-ud57)
 
 ---
 
