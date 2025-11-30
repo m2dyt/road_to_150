@@ -382,5 +382,8 @@ __30 ноября__
 [61. Повернуть список](https://leetcode.com/problems/rotate-list/solutions/7382317/m2dyt-by-m2dyt-9n05)    
 
 ---
+__1 декабря__   
+[86. Список разделов](https://leetcode.com/problems/partition-list/solutions/7384330/m2dyt-by-m2dyt-4bai)   
 
+---
 
