@@ -385,6 +385,7 @@ __30 ноября__
 __1 декабря__   
 [86. Список разделов](https://leetcode.com/problems/partition-list/solutions/7384330/m2dyt-by-m2dyt-4bai)   
 [146. Кэш LRU](https://leetcode.com/problems/lru-cache/solutions/7384387/m2dyt-by-m2dyt-a6cv)    
+[207. Расписание курса](https://leetcode.com/problems/course-schedule/solutions/7386146/m2dyt-by-m2dyt-gg17)   
 
 ---
 
