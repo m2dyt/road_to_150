@@ -391,6 +391,7 @@ __1 декабря__
 ---
 __2 декабря__   
 [909. Змеи и лестницы](https://leetcode.com/problems/snakes-and-ladders/solutions/7387552/m2dyt-by-m2dyt-6z0y)   
+[433. Минимальная генетическая мутация](https://leetcode.com/problems/minimum-genetic-mutation/solutions/7387632/m2dyt-by-m2dyt-mgpf)    
 
 ---
 
