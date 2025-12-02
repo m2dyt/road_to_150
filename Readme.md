@@ -389,4 +389,8 @@ __1 декабря__
 [210. Расписание курса II](https://leetcode.com/problems/course-schedule-ii/solutions/7386162/m2dyt-by-m2dyt-eo33)   
 
 ---
+__2 декабря__   
+[909. Змеи и лестницы](https://leetcode.com/problems/snakes-and-ladders/solutions/7387552/m2dyt-by-m2dyt-6z0y)   
+
+---
 
