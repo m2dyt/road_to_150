@@ -392,4 +392,9 @@ __2 декабря__
 [433. Минимальная генетическая мутация](https://leetcode.com/problems/minimum-genetic-mutation/solutions/7387632/m2dyt-by-m2dyt-mgpf)    
 
 ---
+__4 декабря__   
+[208. Реализовать префиксное дерево (Trie)](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/7392301/m2dyt-by-m2dyt-1nyn)   
+[]()   
+
+---
 
