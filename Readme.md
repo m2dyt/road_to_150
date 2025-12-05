@@ -397,4 +397,7 @@ __4 декабря__
 [211. Проектирование структуры данных для добавления и поиска слов](https://leetcode.com/problems/design-add-and-search-words-data-structure/solutions/7392325/m2dyt-by-m2dyt-j6rz)   
 
 ---
+__5 декабря__   
+[17. Буквенные комбинации номера телефона](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7394138/m2dyt-by-m2dyt-a9ep)     
 
+---
