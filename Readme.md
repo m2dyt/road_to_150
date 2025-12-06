@@ -402,3 +402,8 @@ __5 декабря__
 [17. Буквенные комбинации номера телефона](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7394138/m2dyt-by-m2dyt-a9ep)     
 
 ---
+__6 декобря__   
+[77. Комбинации](https://leetcode.com/problems/combinations/solutions/7396652/m2dyt-by-m2dyt-d94u)   
+
+---
+
