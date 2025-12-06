@@ -404,6 +404,7 @@ __5 декабря__
 ---
 __6 декобря__   
 [77. Комбинации](https://leetcode.com/problems/combinations/solutions/7396652/m2dyt-by-m2dyt-d94u)   
+[46. ​​Перестановки](https://leetcode.com/problems/permutations/submissions/1848769793)    
 
 ---
 
