@@ -407,4 +407,7 @@ __6 декобря__
 [46. ​​Перестановки](https://leetcode.com/problems/permutations/submissions/1848769793)    
 
 ---
+__7 декабря__   
+[22. Генерация скобок](https://leetcode.com/problems/generate-parentheses/solutions/7398259/m2dyt-by-m2dyt-u886)   
 
+---
