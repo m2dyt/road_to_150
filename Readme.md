@@ -411,3 +411,8 @@ __7 декабря__
 [22. Генерация скобок](https://leetcode.com/problems/generate-parentheses/solutions/7398259/m2dyt-by-m2dyt-u886)   
 
 ---
+__8 декабря__   
+[79. Поиск слова](https://leetcode.com/problems/word-search/solutions/7401061/m2dyt-by-m2dyt-69vt)     
+
+---
+
