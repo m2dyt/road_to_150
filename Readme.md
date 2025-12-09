@@ -415,4 +415,8 @@ __8 декабря__
 [79. Поиск слова](https://leetcode.com/problems/word-search/solutions/7401061/m2dyt-by-m2dyt-69vt)     
 
 ---
+__9 декабря__   
+[17. Буквенные комбинации номера телефона](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7403336/m2dyt-by-m2dyt-b00g)     
+
+---
 
