@@ -417,6 +417,7 @@ __8 декабря__
 ---
 __9 декабря__   
 [17. Буквенные комбинации номера телефона](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7403336/m2dyt-by-m2dyt-b00g)     
+[108. Преобразование отсортированного массива в двоичное дерево поиска](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/solutions/7403408/m2dyt-by-m2dyt-eky3)    
 
 ---
 
