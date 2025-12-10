@@ -6,15 +6,12 @@ __6 сентября__
 [27. Remove Element](https://leetcode.com/problems/remove-element/solutions/7160019/m2dyt-by-m2dyt-uyce)  
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7160041/m2dyt-by-m2dyt-4upc)  
 
-
 ---
  __8 сентября__  
  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/7166939/m2dyt-by-m2dyt-vprg)  
  [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/7170157/m2dyt-by-m2dyt-pl7b)  
 
- 
  ---
-
 __10 сентября__  
 [169. Majority Element](https://leetcode.com/problems/majority-element/solutions/7176337/m2dyt-by-m2dyt-rq1t)  
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/solutions/7176491/m2dyt-by-m2dyt-db08)  
@@ -27,7 +24,6 @@ __11 сентября__
 [55. Jump Game](https://leetcode.com/problems/jump-game/solutions/7178075/m2dyt-by-m2dyt-mmi3)  
 
 ---
-
 __12 сентября__  
 [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/solutions/7183299/m2dyt-by-m2dyt-5le4)  
 [274. H-Index](https://leetcode.com/problems/h-index/solutions/7183296/m2dyt-by-m2dyt-qt8j)  
@@ -54,7 +50,6 @@ __16 сентября__
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/solutions/7196430/m2dyt-by-m2dyt-efa7)  
 
 ---
-
 __17 сентября__  
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7199254/m2dyt-by-m2dyt-hnfv)  
 [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/solutions/7199300/m2dyt-by-m2dyt-x7pz)  
@@ -62,7 +57,6 @@ __17 сентября__
 [68. Text Justification](https://leetcode.com/problems/text-justification/solutions/7199599/m2dyt-by-m2dyt-t818)  
 
 ---
-
 __18 сентября__  
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/7203757/m2dyt-by-m2dyt-aurw)  
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/7203764/m2dyt-by-m2dyt-70el)  
