@@ -415,4 +415,6 @@ __9 декабря__
 [148. Сортировка списка](https://leetcode.com/problems/sort-list/solutions/7403520/m2dyt-by-m2dyt-7vq9)    
 
 ---
+__
 
+---
