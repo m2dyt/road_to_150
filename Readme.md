@@ -415,6 +415,7 @@ __9 декабря__
 [148. Сортировка списка](https://leetcode.com/problems/sort-list/solutions/7403520/m2dyt-by-m2dyt-7vq9)    
 
 ---
-__
+__10 декабря__   
+[53. Максимальный подмассив](https://leetcode.com/problems/maximum-subarray/solutions/7408728/m2dyt-by-m2dyt-vtbf)    
 
 ---
