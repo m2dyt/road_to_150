@@ -417,5 +417,6 @@ __9 декабря__
 ---
 __10 декабря__   
 [53. Максимальный подмассив](https://leetcode.com/problems/maximum-subarray/solutions/7408728/m2dyt-by-m2dyt-vtbf)    
+[918. Подмассив круговых массивов с максимальной суммой](https://leetcode.com/problems/maximum-sum-circular-subarray/solutions/7408887/m2dyt-by-m2dyt-4715)    
 
 ---
