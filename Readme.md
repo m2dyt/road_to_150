@@ -423,4 +423,9 @@ __10 декабря__
 __11 декабря__   
 [35. Поиск. Вставка позиции.](https://leetcode.com/problems/search-insert-position/solutions/7410838/m2dyt-by-m2dyt-x7ri)    
 
+---   
+__13 декабря__    
+[74. Поиск в двумерной матрице](https://leetcode.com/problems/search-a-2d-matrix/solutions/7411526/m2dyt-by-m2dyt-sdqp)     
+
 ---
+
