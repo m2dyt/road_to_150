@@ -428,5 +428,7 @@ __13 декабря__
 [74. Поиск в двумерной матрице](https://leetcode.com/problems/search-a-2d-matrix/solutions/7411526/m2dyt-by-m2dyt-sdqp)     
 
 ---
+__14 декабря__   
+[380. Вставить Удалить GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/7414303/m2dyt-by-m2dyt-f0yn)    
 
 ---
