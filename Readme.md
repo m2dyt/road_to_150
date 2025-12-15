@@ -433,3 +433,6 @@ __14 декабря__
 [974. Суммы подмассивов, делящиеся на K.](https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/7414341/m2dyt-by-m2dyt-m9tq)     
 
 ---
+__15 декабря__    
+
+---
