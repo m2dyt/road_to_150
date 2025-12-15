@@ -430,5 +430,6 @@ __13 декабря__
 ---
 __14 декабря__   
 [380. Вставить Удалить GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/7414303/m2dyt-by-m2dyt-f0yn)    
+[974. Суммы подмассивов, делящиеся на K.](https://leetcode.com/problems/subarray-sums-divisible-by-k/solutions/7414341/m2dyt-by-m2dyt-m9tq)     
 
 ---
