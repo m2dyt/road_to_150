@@ -436,5 +436,4 @@ __14 декабря__
 __15 декабря__     
 [162. Найти пиковый элемент](https://leetcode.com/problems/find-peak-element/solutions/7416602/m2dyt-by-m2dyt-sa9n)      
 
-
 ---
