@@ -437,3 +437,7 @@ __15 декабря__
 [162. Найти пиковый элемент](https://leetcode.com/problems/find-peak-element/solutions/7416602/m2dyt-by-m2dyt-sa9n)      
 
 ---
+__16 декабря__    
+[34. Найдите первую и последнюю позицию элемента в отсортированном массиве.](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/7418718/m2dyt-by-m2dyt-nphm)        
+
+---
