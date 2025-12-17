@@ -441,3 +441,8 @@ __16 декабря__
 [34. Найдите первую и последнюю позицию элемента в отсортированном массиве.](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/7418718/m2dyt-by-m2dyt-nphm)        
 
 ---
+__17 декабря__    
+[153. Найти минимум в повернутом отсортированном массиве.](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/7419567/m2dyt-by-m2dyt-g7sr)     
+
+---
+
