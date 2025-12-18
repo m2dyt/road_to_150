@@ -447,6 +447,7 @@ __17 декабря__
 ---
 __18 декабря__    
 [215. K-й по величине элемент в массиве](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7421981/m2dyt-by-m2dyt-bd55)    
+[502. IPO](https://leetcode.com/problems/ipo/solutions/7422687/m2dyt-by-m2dyt-t3va)    
 
 ---
 
