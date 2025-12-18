@@ -445,4 +445,8 @@ __17 декабря__
 [153. Найти минимум в повернутом отсортированном массиве.](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/7419567/m2dyt-by-m2dyt-g7sr)     
 
 ---
+__18 декабря__    
+[215. K-й по величине элемент в массиве](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/7421981/m2dyt-by-m2dyt-bd55)    
+
+---
 
