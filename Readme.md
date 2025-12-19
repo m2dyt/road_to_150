@@ -453,6 +453,7 @@ __18 декабря__
 ---
 __19 декабря__     
 [123. Лучшее время для покупки и продажи акций III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/solutions/7422939/m2dyt-by-m2dyt-mhva)    
+[373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/solutions/7424543/m2dyt-by-m2dyt-mfnv)    
 
 ---
 
