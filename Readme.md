@@ -458,6 +458,7 @@ __19 декабря__
 ---
 __21 декабря__    
 [295. Найти медиану из потока данных.](https://leetcode.com/problems/find-median-from-data-stream/solutions/7427958/m2dyt-by-m2dyt-9kyr)    
+[67. Добавить двоичные данные](https://leetcode.com/problems/add-binary/solutions/7428349/m2dyt-by-m2dyt-ky9fc)     
 
 ---
 
