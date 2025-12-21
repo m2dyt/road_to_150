@@ -456,6 +456,9 @@ __19 декабря__
 [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/solutions/7424543/m2dyt-by-m2dyt-mfnv)    
 
 ---
---
+__21 декабря__    
+[295. Найти медиану из потока данных.](https://leetcode.com/problems/find-median-from-data-stream/solutions/7427958/m2dyt-by-m2dyt-9kyr)    
+
+---
 
 
