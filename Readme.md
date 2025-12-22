@@ -463,6 +463,7 @@ __21 декабря__
 ---
 __22 декабря__   
 [190. Обратные биты](https://leetcode.com/problems/reverse-bits/solutions/7431498/m2dyt-by-m2dyt-ddc7)    
+[191. Количество единичных битов](https://leetcode.com/problems/number-of-1-bits/solutions/7431526/m2dyt-by-m2dyt-in7w)    
 
 ---
 
