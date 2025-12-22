@@ -461,5 +461,8 @@ __21 декабря__
 [67. Добавить двоичные данные](https://leetcode.com/problems/add-binary/solutions/7428349/m2dyt-by-m2dyt-ky9fc)     
 
 ---
+__22 декабря__   
+[190. Обратные биты](https://leetcode.com/problems/reverse-bits/solutions/7431498/m2dyt-by-m2dyt-ddc7)    
 
+---
 
