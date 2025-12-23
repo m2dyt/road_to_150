@@ -469,6 +469,7 @@ __22 декабря__
 ---
 __23 декабря__   
 [137. Единый номер II](https://leetcode.com/problems/single-number-ii/solutions/7433834/m2dyt-by-m2dyt-liiq)   
+[201. Побитовое И чисел в диапазоне](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/7433877/m2dyt-by-m2dyt-ammq)    
 
 ---
 
