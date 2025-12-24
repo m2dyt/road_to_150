@@ -479,4 +479,8 @@ __24 ноября__
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/7436765/m2dyt-by-m2dyt-ilzt)      
 
 ---
+__25 ноября__    
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/solutions/7436784/m2dyt-by-m2dyt-xor1)     
+
+---
 
