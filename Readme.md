@@ -476,6 +476,7 @@ __23 декабря__
 ---
 __24 ноября__   
 [172. Факториальные конечные нули](https://leetcode.com/problems/factorial-trailing-zeroes/solutions/7436752/m2dyt-by-m2dyt-d11n)    
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/7436765/m2dyt-by-m2dyt-ilzt)      
 
 ---
 
