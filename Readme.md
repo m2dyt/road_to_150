@@ -474,5 +474,8 @@ __23 декабря__
 [66. Плюс один](https://leetcode.com/problems/plus-one/solutions/7433940/m2dyt-by-m2dyt-zo4q)     
 
 ---
+__24 ноября__   
+[172. Факториальные конечные нули](https://leetcode.com/problems/factorial-trailing-zeroes/solutions/7436752/m2dyt-by-m2dyt-d11n)    
 
+---
 
