@@ -482,6 +482,7 @@ __24 ноября__
 __25 ноября__    
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/solutions/7436784/m2dyt-by-m2dyt-xor1)     
 [383. Ransom Note](https://leetcode.com/problems/ransom-note/solutions/7436899/m2dyt-by-m2dyt-8m9q)      
+[205. Изоморфные струны](https://leetcode.com/problems/isomorphic-strings/solutions/7436935/m2dyt-by-m2dyt-w1yr)    
 
 ---
 
