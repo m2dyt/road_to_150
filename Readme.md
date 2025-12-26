@@ -485,5 +485,8 @@ __25 ноября__
 [205. Изоморфные струны](https://leetcode.com/problems/isomorphic-strings/solutions/7436935/m2dyt-by-m2dyt-w1yr)    
 
 ---
-__
+__26 ноябяр__    
+[100. Одно и то же дерево](https://leetcode.com/problems/same-tree/solutions/7441054/m2dyt-by-m2dyt-9qex)      
+
+---
 
