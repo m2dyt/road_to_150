@@ -489,4 +489,3 @@ __26 ноябяр__
 [100. Одно и то же дерево](https://leetcode.com/problems/same-tree/solutions/7441054/m2dyt-by-m2dyt-9qex)      
 
 ---
-
