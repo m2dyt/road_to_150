@@ -19,7 +19,6 @@ __10 сентября__
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/7176666/m2dyt-by-m2dyt-t4xc)  
 
 ---
-
 __11 сентября__  
 [55. Jump Game](https://leetcode.com/problems/jump-game/solutions/7178075/m2dyt-by-m2dyt-mmi3)  
 
