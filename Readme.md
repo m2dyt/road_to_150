@@ -488,4 +488,9 @@ __26 ноябяр__
 [100. Одно и то же дерево](https://leetcode.com/problems/same-tree/solutions/7441054/m2dyt-by-m2dyt-9qex)      
 
 ---
+__17 дукабря__   
+[937. Изменение порядка данных в файлах журналов](https://leetcode.com/problems/reorder-data-in-log-files/solutions/7503192/m2dyt-by-m2dyt-v7wu)    
+[22. Создайте скобки](https://leetcode.com/problems/generate-parentheses/solutions/7503201/m2dyt-by-m2dyt-18ao)    
+
+---
 
