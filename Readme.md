@@ -493,4 +493,8 @@ __17 дукабря__
 [22. Создайте скобки](https://leetcode.com/problems/generate-parentheses/solutions/7503201/m2dyt-by-m2dyt-18ao)    
 
 ---
+__19 декабря__    
+[70. Подъем по лестнице](https://leetcode.com/problems/climbing-stairs/solutions/7506966/m2dyt-by-m2dyt-jost)       
+
+---
 
