@@ -498,4 +498,8 @@ __19 декабря__
 [70. Подъем по лестнице](https://leetcode.com/problems/climbing-stairs/solutions/7506966/m2dyt-by-m2dyt-jost)       
 
 ---
+__21 декабря__   
+[198. Грабитель домов](https://leetcode.com/problems/house-robber/solutions/7512462/m2dyt-by-m2dyt-v0pa)    
+
+---
 
