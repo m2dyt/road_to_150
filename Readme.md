@@ -504,5 +504,6 @@ __21 декабря__
 ---
 __22 декабря__    
 [139. Разрыв слова](https://leetcode.com/problems/word-break/solutions/7515332/m2dyt-by-m2dyt-7i9m)    
+[322. Сдача](https://leetcode.com/problems/coin-change/solutions/7515400/m2dyt-by-m2dyt-9yvt)   
 
 ---
