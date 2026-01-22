@@ -502,4 +502,7 @@ __21 декабря__
 [198. Грабитель домов](https://leetcode.com/problems/house-robber/solutions/7512462/m2dyt-by-m2dyt-v0pa)    
 
 ---
+__22 декабря__    
+[139. Разрыв слова](https://leetcode.com/problems/word-break/solutions/7515332/m2dyt-by-m2dyt-7i9m)    
 
+---
