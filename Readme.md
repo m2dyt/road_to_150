@@ -508,7 +508,7 @@ __22 декабря__
 
 ---
 __23 декабря__   
-[]()    
-[]()    
+[120. Треугольник](https://leetcode.com/problems/triangle/solutions/7517817/m2dyt-by-m2dyt-9k25)       
+[300. Самая длинная возрастающая подпоследовательность](https://leetcode.com/problems/longest-increasing-subsequence/solutions/7517823/m2dyt-by-m2dyt-qc85)      
 
 ---
