@@ -512,3 +512,7 @@ __23 декабря__
 [300. Самая длинная возрастающая подпоследовательность](https://leetcode.com/problems/longest-increasing-subsequence/solutions/7517823/m2dyt-by-m2dyt-qc85)      
 
 ---
+__24 декабря__   
+[64. Минимальная сумма путей](https://leetcode.com/problems/minimum-path-sum/solutions/7520398/m2dyt-by-m2dyt-wql1)     
+
+---
