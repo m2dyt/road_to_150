@@ -514,5 +514,6 @@ __23 декабря__
 ---
 __24 декабря__   
 [64. Минимальная сумма путей](https://leetcode.com/problems/minimum-path-sum/solutions/7520398/m2dyt-by-m2dyt-wql1)     
+[63. Уникальные пути II](https://leetcode.com/problems/unique-paths-ii/solutions/7520610/m2dyt-by-m2dyt-fkw8)      
 
 ---
