@@ -518,7 +518,7 @@ __24 декабря__
 
 ---
 __25 декабря__   
-[5. Самая длинная палиндромная подстрока
-](https://leetcode.com/problems/longest-palindromic-substring/solutions/7523779/m2dyt-by-m2dyt-icb7)    
+[5. Самая длинная палиндромная подстрока](https://leetcode.com/problems/longest-palindromic-substring/solutions/7523779/m2dyt-by-m2dyt-icb7)    
+[97. Чередование строк](https://leetcode.com/problems/interleaving-string/solutions/7524081/m2dyt-by-m2dyt-p0bt)     
 
 ---
