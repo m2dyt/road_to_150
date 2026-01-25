@@ -517,3 +517,8 @@ __24 декабря__
 [63. Уникальные пути II](https://leetcode.com/problems/unique-paths-ii/solutions/7520610/m2dyt-by-m2dyt-fkw8)      
 
 ---
+__25 декабря__   
+[5. Самая длинная палиндромная подстрока
+](https://leetcode.com/problems/longest-palindromic-substring/solutions/7523779/m2dyt-by-m2dyt-icb7)    
+
+---
