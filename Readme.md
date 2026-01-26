@@ -524,5 +524,6 @@ __25 января__
 ---
 __26 января__   
 [72. Расстояние редактирования](https://leetcode.com/problems/edit-distance/solutions/7526323/m2dyt-by-m2dyt-ow61)   
+[221. Максимальный квадрат](https://leetcode.com/problems/maximal-square/solutions/7526472/m2dyt-by-m2dyt-t7w7)       
 
 ---
