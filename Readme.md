@@ -489,35 +489,35 @@ __26 ноябяр__
 [100. Одно и то же дерево](https://leetcode.com/problems/same-tree/solutions/7441054/m2dyt-by-m2dyt-9qex)      
 
 ---
-__17 дукабря__   
+__17 января__   
 [937. Изменение порядка данных в файлах журналов](https://leetcode.com/problems/reorder-data-in-log-files/solutions/7503192/m2dyt-by-m2dyt-v7wu)    
 [22. Создайте скобки](https://leetcode.com/problems/generate-parentheses/solutions/7503201/m2dyt-by-m2dyt-18ao)    
 
 ---
-__19 декабря__    
+__19 января__    
 [70. Подъем по лестнице](https://leetcode.com/problems/climbing-stairs/solutions/7506966/m2dyt-by-m2dyt-jost)       
 
 ---
-__21 декабря__   
+__21 января__   
 [198. Грабитель домов](https://leetcode.com/problems/house-robber/solutions/7512462/m2dyt-by-m2dyt-v0pa)    
 
 ---
-__22 декабря__    
+__22 января__    
 [139. Разрыв слова](https://leetcode.com/problems/word-break/solutions/7515332/m2dyt-by-m2dyt-7i9m)    
 [322. Сдача](https://leetcode.com/problems/coin-change/solutions/7515400/m2dyt-by-m2dyt-9yvt)   
 
 ---
-__23 декабря__   
+__23 января__   
 [120. Треугольник](https://leetcode.com/problems/triangle/solutions/7517817/m2dyt-by-m2dyt-9k25)       
 [300. Самая длинная возрастающая подпоследовательность](https://leetcode.com/problems/longest-increasing-subsequence/solutions/7517823/m2dyt-by-m2dyt-qc85)      
 
 ---
-__24 декабря__   
+__24 января__   
 [64. Минимальная сумма путей](https://leetcode.com/problems/minimum-path-sum/solutions/7520398/m2dyt-by-m2dyt-wql1)     
 [63. Уникальные пути II](https://leetcode.com/problems/unique-paths-ii/solutions/7520610/m2dyt-by-m2dyt-fkw8)      
 
 ---
-__25 декабря__   
+__25 января__   
 [5. Самая длинная палиндромная подстрока](https://leetcode.com/problems/longest-palindromic-substring/solutions/7523779/m2dyt-by-m2dyt-icb7)    
 [97. Чередование строк](https://leetcode.com/problems/interleaving-string/solutions/7524081/m2dyt-by-m2dyt-p0bt)     
 
