@@ -522,3 +522,7 @@ __25 января__
 [97. Чередование строк](https://leetcode.com/problems/interleaving-string/solutions/7524081/m2dyt-by-m2dyt-p0bt)     
 
 ---
+__26 января__   
+[72. Расстояние редактирования](https://leetcode.com/problems/edit-distance/solutions/7526323/m2dyt-by-m2dyt-ow61)   
+
+---
