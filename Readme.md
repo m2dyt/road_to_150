@@ -527,3 +527,7 @@ __26 января__
 [221. Максимальный квадрат](https://leetcode.com/problems/maximal-square/solutions/7526472/m2dyt-by-m2dyt-t7w7)       
 
 ---
+__27 января__   
+[791. Пользовательская строка сортировки](https://leetcode.com/problems/custom-sort-string/solutions/7530119/m2dyt-by-m2dyt-93vo)    
+
+---
