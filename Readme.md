@@ -529,5 +529,6 @@ __26 января__
 ---
 __27 января__   
 [791. Пользовательская строка сортировки](https://leetcode.com/problems/custom-sort-string/solutions/7530119/m2dyt-by-m2dyt-93vo)    
+[977. Квадраты отсортированного массива](https://leetcode.com/problems/squares-of-a-sorted-array/solutions/7530132/m2dyt-by-m2dyt-p0hc)      
 
 ---
