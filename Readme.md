@@ -532,3 +532,7 @@ __27 января__
 [977. Квадраты отсортированного массива](https://leetcode.com/problems/squares-of-a-sorted-array/solutions/7530132/m2dyt-by-m2dyt-p0hc)      
 
 ---
+__28 января__   
+[1768. Попеременное слияние струн.](https://leetcode.com/problems/merge-strings-alternately/solutions/7530257/m2dyt-by-m2dyt-hdlb)    
+
+---
