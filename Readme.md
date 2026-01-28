@@ -538,5 +538,6 @@ __28 января__
 [1431. Дети, у которых больше всего конфет](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7532591/m2dyt-by-m2dyt-3cyd)      
 [605. Можно поставить цветы.](https://leetcode.com/problems/can-place-flowers/solutions/7532675/m2dyt-by-m2dyt-hwoj)    
 [345. Обратные гласные в струне](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/7532710/m2dyt-by-m2dyt-84nx)     
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7532763/m2dyt-clean-slove-by-m2dyt-ynxi)      
 
 ---
