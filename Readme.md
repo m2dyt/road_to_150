@@ -536,5 +536,6 @@ __28 января__
 [1768. Попеременное слияние струн.](https://leetcode.com/problems/merge-strings-alternately/solutions/7530257/m2dyt-by-m2dyt-hdlb)    
 [1071. Наибольший общий делитель струн](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/7532340/m2dyt-by-m2dyt-5c10)     
 [1431. Дети, у которых больше всего конфет](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/7532591/m2dyt-by-m2dyt-3cyd)      
+[605. Можно поставить цветы.](https://leetcode.com/problems/can-place-flowers/solutions/7532675/m2dyt-by-m2dyt-hwoj)    
 
 ---
