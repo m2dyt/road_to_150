@@ -534,5 +534,6 @@ __27 января__
 ---
 __28 января__   
 [1768. Попеременное слияние струн.](https://leetcode.com/problems/merge-strings-alternately/solutions/7530257/m2dyt-by-m2dyt-hdlb)    
+[1071. Наибольший общий делитель струн](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/7532340/m2dyt-by-m2dyt-5c10)     
 
 ---
