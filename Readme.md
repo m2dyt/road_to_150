@@ -546,5 +546,6 @@ __29 января__
 [334. Возрастающая триплетная подпоследовательность](https://leetcode.com/problems/increasing-triplet-subsequence/solutions/7534256/m2dyt-by-m2dyt-h2d3)     
 [443. Сжатие струн](https://leetcode.com/problems/string-compression/solutions/7534395/m2dyt-by-m2dyt-4dsr)      
 [2215. Найдите разность двух массивов.](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7534484/m2dyt-by-m2dyt-g863)     
+[649. Сенат Dota2](https://leetcode.com/problems/dota2-senate/solutions/7535312/m2dyt-by-m2dyt-bg1d)    
 
 ---
