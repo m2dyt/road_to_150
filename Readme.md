@@ -545,5 +545,6 @@ __29 января__
 [238. Произведение массива, за исключением самого себя.](https://leetcode.com/problems/product-of-array-except-self/solutions/7534101/m2dyt-by-m2dyt-3prc)     
 [334. Возрастающая триплетная подпоследовательность](https://leetcode.com/problems/increasing-triplet-subsequence/solutions/7534256/m2dyt-by-m2dyt-h2d3)     
 [443. Сжатие струн](https://leetcode.com/problems/string-compression/solutions/7534395/m2dyt-by-m2dyt-4dsr)      
+[2215. Найдите разность двух массивов.](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/7534484/m2dyt-by-m2dyt-g863)     
 
 ---
