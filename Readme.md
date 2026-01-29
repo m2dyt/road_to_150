@@ -541,3 +541,7 @@ __28 января__
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7532763/m2dyt-clean-slove-by-m2dyt-ynxi)      
 
 ---
+__29 января__     
+[238. Произведение массива, за исключением самого себя.](https://leetcode.com/problems/product-of-array-except-self/solutions/7534101/m2dyt-by-m2dyt-3prc)     
+
+---
