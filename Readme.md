@@ -552,6 +552,7 @@ __29 января__
 ---
 __30 января__    
 [1207. Уникальное количество вхождений](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7536530/m2dyt-by-m2dyt-dh1l)    
+[2095. Удалить средний узел связанного списка](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/7536554/m2dyt-by-m2dyt-letf)      
 
 ---
 
