@@ -550,3 +550,8 @@ __29 января__
 [206. Обратный связанный список](https://leetcode.com/problems/reverse-linked-list/solutions/7535332/m2dyt-by-m2dyt-sljz)     
 
 ---
+__30 января__    
+[1207. Уникальное количество вхождений](https://leetcode.com/problems/unique-number-of-occurrences/solutions/7536530/m2dyt-by-m2dyt-dh1l)    
+
+---
+
