@@ -555,4 +555,8 @@ __30 января__
 [2095. Удалить средний узел связанного списка](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/solutions/7536554/m2dyt-by-m2dyt-letf)      
 
 ---
+__31 января__     
+[1448. Подсчет хороших узлов в бинарном дереве.](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/7539368/m2dyt-by-m2dyt-k1pg)     
+
+---
 
