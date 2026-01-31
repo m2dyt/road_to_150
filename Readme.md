@@ -557,6 +557,7 @@ __30 января__
 ---
 __31 января__     
 [1448. Подсчет хороших узлов в бинарном дереве.](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/7539368/m2dyt-by-m2dyt-k1pg)     
+[437. Сумма путей III](https://leetcode.com/problems/path-sum-iii/solutions/7539533/m2dyt-by-m2dyt-asjn)     
 
 ---
 
