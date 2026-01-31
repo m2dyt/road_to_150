@@ -559,6 +559,7 @@ __31 января__
 [1448. Подсчет хороших узлов в бинарном дереве.](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/7539368/m2dyt-by-m2dyt-k1pg)     
 [437. Сумма путей III](https://leetcode.com/problems/path-sum-iii/solutions/7539533/m2dyt-by-m2dyt-asjn)     
 [1372. Самый длинный зигзагообразный путь в бинарном дереве.](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/7540345/m2dyt-by-m2dyt-3ny7)      
+[1161. Максимальная сумма уровней бинарного дерева](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/7540518/m2dyt-by-m2dyt-nkrn)    
 
 ---
 
